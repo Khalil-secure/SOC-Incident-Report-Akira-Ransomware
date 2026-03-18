@@ -2,7 +2,7 @@
 
 ## About
 SOC Analyst in training | TryHackMe | SC-200 (in progress)
-Based in Morocco 🇲🇦 | Targeting SOC N1 roles in France 🇫🇷
+Based in Lyon | Targeting SOC N1 roles in France 🇫🇷
 
 ## Certifications & Labs
 
@@ -15,3 +15,4 @@ Based in Morocco 🇲🇦 | Targeting SOC N1 roles in France 🇫🇷
   - Linux host compromise investigation
   - MITRE ATT&CK mapping
   - Phishing campaign identification
+[View Full Incident Report](./TryHackMe-Incidents/SOC_Incident_Report_Redacted_EN_FR.pdf)
